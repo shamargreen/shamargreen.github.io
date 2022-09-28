@@ -22,8 +22,7 @@
 - [National Geospatial Intellignece Agency](https://www.nga.mil/)
 - [BAE Systems](https://www.baesystems.com/)
 - [Leidos](https://www.leidos.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
 
 ---
 
