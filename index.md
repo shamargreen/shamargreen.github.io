@@ -8,8 +8,8 @@
 <img src="images/Africa_gif.gif?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="pdf/term_prj.pdf?raw=true"/>
+[Written Findings](/pdf/Term_prj.pdf)
+<img src="images/logo2.png?raw=true"/>
 
 ---
 [USGS Burn Index](https://www.usgs.gov/)
