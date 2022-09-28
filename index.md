@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/term_prj.pdf?raw=true"/>
 
 ---
 [USGS Burn Index](https://www.usgs.gov/)
