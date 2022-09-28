@@ -12,8 +12,8 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[USGS Burn Index](https://www.usgs.gov/)
+<img src="images/dummy_thumbnail.JPG?raw=true"/>
 
 ---
 
