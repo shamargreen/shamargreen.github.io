@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Projects
 
 [NASA MODIS](/sample_page)
 <img src="images/Africa_gif.gif?raw=true"/>
