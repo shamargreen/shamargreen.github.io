@@ -3,7 +3,8 @@
 ---
 
 ### My Projects
-[![Stafford Hospitals](images/map_overview.PNG)] 
+[Stafford Hospitals](images/map_overview.PNG)] 
+
 (https://arcg.is/1fyTjn0)
 
 [NASA MODIS](/sample_page)
